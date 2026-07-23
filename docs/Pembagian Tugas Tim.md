@@ -16,7 +16,7 @@ Proyek ini menggunakan 5 peran utama:
 
 ### 2.1 System Analyst / Project Manager
 
-Penanggung jawab: "Hendra"
+Penanggung jawab: "febryan ilham dan ina nadia"
 
 Tugas:
 
@@ -40,7 +40,7 @@ Output:
 
 ### 2.2 Database Engineer
 
-Penanggung jawab: "Hendra"
+Penanggung jawab: "Muhyidin Abdul latief"
 
 Tugas:
 
@@ -85,8 +85,7 @@ Output:
 
 ### 2.4 Frontend Developer
 
-Penanggung jawab utama: "Zidan"
-Pendamping: "Hendra"
+Penanggung jawab utama: "Zidan ikhwan lafasa"
 
 Tugas:
 
@@ -108,8 +107,7 @@ Output:
 
 ### 2.5 UI/UX Designer
 
-Penanggung jawab utama: "Muhyi"  
-Pendamping: "Hendra"
+Penanggung jawab utama: "Muhammad Raffel"
 
 Tugas:
 

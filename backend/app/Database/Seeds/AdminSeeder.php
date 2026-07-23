@@ -8,7 +8,7 @@ class AdminSeeder extends Seeder
 {
     public function run()
     {
-        $email = 'Hendra@gmail.com';
+        $email = 'rafel@gmail.com';
 
         $existingAdmin = $this->db->table('users')
             ->where('email', $email)
@@ -17,7 +17,7 @@ class AdminSeeder extends Seeder
 
         if (!$existingAdmin) {
             $this->db->table('users')->insert([
-                'name'       => 'Hendra Suhendar',
+                'name'       => 'Muhammad Raffel',
                 'email'      => $email,
                 'password'   => password_hash('1234', PASSWORD_DEFAULT),
                 'role'       => 'admin',
